@@ -102,7 +102,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="8dp"
                     android:onClick="addTwoForTeamB"
-                    android:text="+2" />
+                    android:text="+2l" />
 
                 <Button
                     android:layout_width="match_parent"
