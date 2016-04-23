@@ -168,17 +168,18 @@
         <h3>WEB</h3>
           <li><p>-HTML / HTML5 / CSS/<br>
             -BootStrap</p></li>
-
         <h3>Programming</h3>
            <li><p><a href="https://github.com/keyFrameM">-JavaScript/ Jquery / Coffee Script</a><br>
-          -Python<br>
+          -Node.js<br>
+          -VBA / VBScript<br>
           -Java<br>
-          -VBA / VBScript</p></li>
+          -Android<br>
+          -Python<br>
+        </p></li>
         <h3>Bonus</h3>
           <li><a href="https://github.com/keyFrameM"><p>-GitHub</a><br>
           -Terminal / Compand Line<br>
-          -Ajax / JSON<br>
-          -Sublime<br>
+          -Ajax / JSON <br>
           <a href="https://www.marloweanimation.com">-Muse </a><br>
           -Regular Expressions</p></li>
       </ul>
@@ -189,8 +190,7 @@
     <h2>Also Learning</h2>
     <article>
       <ul>
-        <li><h3></i>    Android<h3></li>
-        <li><h3>C and C++<h3 ></li>
+        <li><h3></i>Android<h3></li>
       </ul>
     </article>  
  </div>

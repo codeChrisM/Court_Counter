@@ -66,7 +66,7 @@
 			<a href="https://www.linkedin.com/in/christophermarlowe">
 				<img  class="logoLarge" src="images/LinkedIn Logo.png" alt=LinkedIn/>
 			</a>
-			<h3>linkedIn</h3>
+			<h3>LinkedIn</h3>
 			<p>Hire me!</p>
 		</li>
 
@@ -147,7 +147,7 @@
 		<h2>Also Learning</h2>
 			<ul>
 				<li><h3>Android<h3></li>
-				<li><h3>C and C++<h3></li>
+				<li><h3>node.js<h3></li>
 			</ul>
 		</article>	
 	</div>
